@@ -1,0 +1,21 @@
+{
+  "name": "txGarage",
+  "description": "News Reviews Passion for the Texas automotive consumer.",
+  "version": "1.4",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://txgarage.com/"
+    ],
+    "launch": {
+      "web_url": "http://txgarage.com/"
+    }
+  },
+  "icons": {
+    "128": "128_logo.png"
+  },
+  "permissions": [
+    "unlimitedStorage",
+    "notifications"
+  ]
+}
